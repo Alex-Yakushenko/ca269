@@ -71,3 +71,14 @@ public class Point implements Comparable{
         
     }
 }
+
+// class Comparator<T extends Order> {
+//     public T getLesser(T p1, T p2) {
+//         if (p1.lessThan(p2)) {
+//             return p1;
+//         } else if (p2.lessThan(p1)) {
+//             return p2;
+//         }
+//         return null;
+//     }
+// }
